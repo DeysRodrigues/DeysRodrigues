@@ -1,7 +1,8 @@
 ### 🚀🪐 Olá, sou Deys Rodrigues</strong> <br> estou iniciando minha viajem pelo universo da tecnologia! 
 
-<li>☄ <strong>Front-end</strong> Jr <br>
+<li>☄ <strong>Front-end </strong> Jr <br>
 <li>☄ <strong>JAVA</strong> developer Jr
+<li>☄ <strong>ANGULAR</strong> developer Jr
 
 ##
 <div align="center">
