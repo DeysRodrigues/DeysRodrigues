@@ -2,9 +2,9 @@
 
 ### Linguagens 
 
-☄ `Front-end basic  (HTML, CSS & JS)` <br>
-☄  ` JAVA</strong> (developer Jr)` <br>
-☄ ` TypeScript</strong> (developer Jr)` <br>
+☄ `Front-end basic (HTML, CSS & JS)` <br>
+☄  ` JAVA (developer Jr)` <br>
+☄ ` TypeScript (developer Jr)` <br>
  ### Frameworks 
 ☄ ` ANGULAR (developer Jr)` 
 
