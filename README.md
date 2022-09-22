@@ -1,12 +1,12 @@
-### 🚀🪐 Olá, sou Deys Rodrigues</strong> <br> estou iniciando minha viajem pelo universo da tecnologia! 
+### 🚀🪐 `Hello World!`, sou Deys Rodrigues <br> estou iniciando minha viajem pelo universo da `tecnologia`! 
 
-<h2> Linguagens </h2>
+### Linguagens 
 
-<li>☄ <strong>Front-end basic  </strong> (HTML, CSS & JS) <br>
-<li>☄ <strong>JAVA</strong> (developer Jr)
-<li>☄ <strong>TypeScript</strong> (developer Jr)
-<h2> Frameworks </h2>
-<li>☄ <strong>ANGULAR</strong> (developer Jr)
+☄ `Front-end basic  (HTML, CSS & JS)` <br>
+☄  ` JAVA</strong> (developer Jr)` <br>
+☄ ` TypeScript</strong> (developer Jr)` <br>
+ ### Frameworks 
+☄ ` ANGULAR (developer Jr)` 
 
 ##
 <div align="center">
