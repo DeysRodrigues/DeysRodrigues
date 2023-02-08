@@ -34,7 +34,9 @@
 
  
  <a href = "mailto:RodriguesDeys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
+  <br>
  <a href="" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank">
+   <br>
  <a href="https://www.behance.net/venushim" target="_blank" ><img src="https://img.shields.io/badge/-Behance-blueviolet?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
  
  </div>
