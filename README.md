@@ -9,7 +9,7 @@
 ☄ ` ANGULAR (developer Jr)` 
 
 ##
-<img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt=""  width="50%"/>
+<img align="left" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt=""  width="50%"/>
 <div align="left">
   
   <a href="https://github.com/deysrodrigues">
@@ -24,7 +24,7 @@
   <img align="center" alt="Deys-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deys-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deys-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Deys-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Deys-TS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Deys-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   
   
@@ -40,6 +40,8 @@
  <a href="https://www.behance.net/venushim" target="_blank" ><img src="https://img.shields.io/badge/-Behance-blueviolet?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
  
  </div>
+     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
 
   ![Snake animation](https://github.com/DeysRodrigues/DeysRodrigues/blob/output/github-contribution-grid-snake.svg)
+  
  
