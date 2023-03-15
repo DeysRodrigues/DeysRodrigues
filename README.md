@@ -9,7 +9,7 @@
 ☄ ` ANGULAR (developer Jr)` 
 
 ##
-<img align="left" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt=""  width="50%"/>
+<img align="left" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt=""  width="54%"/>
 <div align="left">
   
   <a href="https://github.com/deysrodrigues">
