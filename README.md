@@ -40,7 +40,6 @@
  <a href="https://www.behance.net/venushim" target="_blank" ><img src="https://img.shields.io/badge/-Behance-blueviolet?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
  
  </div>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
 
   ![Snake animation](https://github.com/DeysRodrigues/DeysRodrigues/blob/output/github-contribution-grid-snake.svg)
   
