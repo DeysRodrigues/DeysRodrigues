@@ -17,13 +17,6 @@
  <a href="https://www.behance.net/venushim" target="_blank" ><img src="https://img.shields.io/badge/-Behance-blueviolet?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
  </div>
   
-<div align="center">
-  
-  <a href="https://github.com/deysrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deysrodrigues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deysrodrigues&layout=compact&langs_count=7&theme=midnight-purple"/> 
-  
-</div>
 
 <div> <br>
 <div align="center">
