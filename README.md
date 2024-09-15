@@ -1,6 +1,6 @@
 ### 🚀🪐 `Hello World!`, sou Deys Rodrigues <br> estou iniciando minha viajem pelo universo da `tecnologia`! 
 
-> #### Atualmente meus melhores projetos possuem a hashtag ```#DeysProjects```, cliquem para filtrarem melhor:)
+
 <br>
  <div align="left"> 
   <a href = "mailto:RodriguesDeys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
