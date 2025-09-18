@@ -7,7 +7,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-      - master
+      - main
 
   # run automatically every 12 hours
   schedule:
