@@ -1,30 +1,36 @@
-### 🚀🪐 `Hello World!`, sou Deys Rodrigues <br> estou iniciando minha viajem pelo universo da `tecnologia`! 
+# Hi, i'm Deys
 
 
-<br>
- <div align="left"> 
-  <a href = "mailto:RodriguesDeys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
- <a href="" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank">
- <a href="https://www.behance.net/venushim" target="_blank" ><img src="https://img.shields.io/badge/-Behance-blueviolet?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
- </div>
-  
 
-<div> <br>
-<div align="left">
- <img height="26em" src="https://img.shields.io/badge/-HTML-000?style=forthebadge&logo=html5&color=151515&logoColor=000&labelColor=5c64ff">
- <img height="26em" src="https://img.shields.io/badge/-CSS-000?style=forthebadge&logo=css3&color=151515&logoColor=000&labelColor=5c64ff">
- <img height="26em" src="https://img.shields.io/badge/-Typescript-000?style=forthebadge&logo=typescript&color=151515&logoColor=000&labelColor=5c64ff">
- <img height="26em" src="https://img.shields.io/badge/-Javascript-000?style=forthebadge&logo=javascript&color=151515&logoColor=000&labelColor=5c64ff">
+<div> 
+ 
+![React](https://img.shields.io/badge/React-a020f0?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-b23ae6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-c54bdc?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-d75dd2?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-e96fc8?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5 & CSS3](https://img.shields.io/badge/HTML5%20%26%20CSS3-fb81be?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-6a0dad?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5e35b1?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-4a47c2?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3761d8?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b6fea?style=for-the-badge&logo=postgresql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-1e90ff?style=for-the-badge&logo=lua&logoColor=white)
+
+
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-4b0082?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5a31a6?style=for-the-badge&logo=docker&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-6640c9?style=for-the-badge&logo=wordpress&logoColor=white)
+![Jest & Testing](https://img.shields.io/badge/Jest%20%26%20Testing-3f71d3?style=for-the-badge&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2b9ee5?style=for-the-badge&logo=figma&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-00bcd4?style=for-the-badge&logo=webpack&logoColor=white)
+
+ 
 </div>
 
-
- 
-<div align="left">
- <img height="27em"src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=292e91">
-  <img height="27em"src="https://img.shields.io/badge/-Angular-000?style=for-tbadge&logo=angular&color=151515&logoColor=000&labelColor=292e91"> </div>
-
-
- 
 
   ![Snake animation](https://github.com/DeysRodrigues/DeysRodrigues/blob/output/github-contribution-grid-snake.svg)
   
