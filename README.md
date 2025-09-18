@@ -32,6 +32,7 @@
 </div>
 
 
-  ![Snake animation](https://github.com/DeysRodrigues/DeysRodrigues/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DeysRodrigues/DeysRodrigues/output/github-contribution-grid-snake.svg)
+
   
  
